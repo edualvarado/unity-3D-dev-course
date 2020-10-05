@@ -6,4 +6,4 @@ Game development & design with Unity in C#.
 
 ## Glossary
 
-* In progress
+* Section 1: First Steps - Getting Set Up 
